@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokemonDeck/static/css/main.30fe76fc.chunk.css",
+    "main.js": "/pokemonDeck/static/js/main.a13f50dc.chunk.js",
+    "main.js.map": "/pokemonDeck/static/js/main.a13f50dc.chunk.js.map",
+    "runtime-main.js": "/pokemonDeck/static/js/runtime-main.07971e9c.js",
+    "runtime-main.js.map": "/pokemonDeck/static/js/runtime-main.07971e9c.js.map",
+    "static/js/2.a3002815.chunk.js": "/pokemonDeck/static/js/2.a3002815.chunk.js",
+    "static/js/2.a3002815.chunk.js.map": "/pokemonDeck/static/js/2.a3002815.chunk.js.map",
+    "index.html": "/pokemonDeck/index.html",
+    "precache-manifest.9b375f22a8f74fecd7e16d816193b056.js": "/pokemonDeck/precache-manifest.9b375f22a8f74fecd7e16d816193b056.js",
+    "service-worker.js": "/pokemonDeck/service-worker.js",
+    "static/css/main.30fe76fc.chunk.css.map": "/pokemonDeck/static/css/main.30fe76fc.chunk.css.map",
+    "static/js/2.a3002815.chunk.js.LICENSE": "/pokemonDeck/static/js/2.a3002815.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07971e9c.js",
+    "static/js/2.a3002815.chunk.js",
+    "static/css/main.30fe76fc.chunk.css",
+    "static/js/main.a13f50dc.chunk.js"
+  ]
+}
