@@ -1,17 +1,26 @@
 .card-container{
     display: flex;
     flex-direction: column;
-    background-color:#95dada ;
-    border: 1px solid grey;
+    background-color: white;
+    border: 6px solid;
+    border-style: double;
     border-radius: 20px;
-    padding:25px;
-    cursor: pointer;
-    -moz-osx-font-smoothing:grayscale;
-    backface-visibility: hidden;
-    transform:translateZ(0);
-    transition:transform 0.25s ease-out;
+    border-color: red;
+    padding: 25px;
 }
 
-.card-container:hover{
-    transform:scale(1.05s);
+.card-container:hover {
+    border: 10px solid;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: greenyellow;
+}
+.txt{
+    font-family: 'Roboto', sans-serif;
+    text-transform: capitalize ;
+}
+
+.image{
+    height: 100%;
+    width:100%;
 }

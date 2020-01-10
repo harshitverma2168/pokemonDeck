@@ -1,0 +1,89 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "charizard",
+      "generation": "Generation3"
+    },
+    {
+      "id": 2,
+      "name": "golem",
+      "generation": "Generation1"
+    },
+    {
+      "id": 3,
+      "name": "snorlax",
+      "generation": "Generation1"
+    },
+    {
+      "id": 4,
+      "name": "machop",
+      "generation": "Generation2"
+    },
+    {
+      "id": 5,
+      "name": "geodude",
+      "generation": "Generation1"
+    },
+    {
+      "id": 6,
+      "name": "bulbasaur",
+      "generation": "Generation1"
+    },
+    {
+      "id": 7,
+      "name": "raichu",
+      "generation": "Generation2"
+    },
+    {
+      "id": 8,
+      "name": "sandshrew",
+      "generation": "Genertion1"
+    },
+    {
+      "id": 9,
+      "name": "pikachu",
+      "generation": "Generation1"
+    },
+    {
+      "id": 10,
+      "name": "venusaur",
+      "generation": "Generation3"
+    },
+    {
+      "id": 11,
+      "name": "ivysaur",
+      "generation": "Generation2"
+    },
+    {
+      "id": 12,
+      "name": "charmander",
+      "generation": "Generation1"
+    },
+    {
+      "id":13,
+      "name": "charmeleon",
+      "generation": "Generation2"
+    },
+    {
+      "id": 14,
+      "name": "squirtle",
+      "generation": "Generation1"
+    },
+    {
+      "id": 15,
+      "name": "wartortle",
+      "generation": "Generation2"
+    },
+    {
+      "id": 16,
+      "name": "blastoise",
+      "generation": "Generation3"
+    },
+    {
+      "id": 17,
+      "name": "rattata",
+      "generation": "Generation1"
+    }
+  ]
+}

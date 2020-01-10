@@ -1,8 +1,8 @@
 .App {
   text-align: center;
+  background-color: #F2F0F0;
 }
 
 .pokeText {
-  width:10%;
-  height:10%;
+  width:25%;
 }
